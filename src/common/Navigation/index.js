@@ -22,7 +22,7 @@ const Navigation = ({ queryParam, setQueryParam }) => {
             <StyledIcon />
             <Title>
               <StyledLink
-                href="/Movies-browser/"
+                href="/Movies-Browser/"
               >
                 movies browser
               </StyledLink>
