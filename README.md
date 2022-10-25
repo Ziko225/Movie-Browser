@@ -10,7 +10,7 @@
 
 ## Demo
 
-https://galerafrontend.github.io/Movies-browser/
+https://ziko225.github.io/Movie-Browser/
 ## General info
 
   Movies Browser is an application where you can easily browse and search for popular movies and poeple. Additionally, each movie and person has a separate page with information about the crew and cast, etc.
@@ -24,7 +24,7 @@ https://galerafrontend.github.io/Movies-browser/
   3. If you want to get detailed information about a movie/person, just click on the tile with that movie or person.
   4. To go back to the home page, click on the website logo on the left side of the navigation bar.
   5. An example of the application's operation is presented on GIF.
-    ![Movies-browser-react](How_it_works_MB.gif)
+  
 ## Technologies/Conventions
 - project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 - React
